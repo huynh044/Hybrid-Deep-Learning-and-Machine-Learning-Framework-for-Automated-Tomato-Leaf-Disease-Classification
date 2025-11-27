@@ -1,5 +1,5 @@
-![alt text]([https://github.com/huynh044/Hybrid-Deep-Learning-and-Machine-Learning-Framework-for-Automated-Tomato-Leaf-Disease-Classification/blob/main/Paper.png])
-# Hybrid-Deep-Learning-and-Machine-Learning-Framework-for-Automated-Tomato-Leaf-Disease-Classification
+![alt text](Paper.png)
+# Title: Hybrid-Deep-Learning-and-Machine-Learning-Framework-for-Automated-Tomato-Leaf-Disease-Classification
 Field: Computer Vision
 ## Link to the paper:
 ```bash
